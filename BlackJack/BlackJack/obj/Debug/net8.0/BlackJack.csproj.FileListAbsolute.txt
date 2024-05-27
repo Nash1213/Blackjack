@@ -1,0 +1,14 @@
+/media/HDD1/Projects/BlackJack/BlackJack/bin/Debug/net8.0/BlackJack
+/media/HDD1/Projects/BlackJack/BlackJack/bin/Debug/net8.0/BlackJack.deps.json
+/media/HDD1/Projects/BlackJack/BlackJack/bin/Debug/net8.0/BlackJack.runtimeconfig.json
+/media/HDD1/Projects/BlackJack/BlackJack/bin/Debug/net8.0/BlackJack.dll
+/media/HDD1/Projects/BlackJack/BlackJack/bin/Debug/net8.0/BlackJack.pdb
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.AssemblyInfoInputs.cache
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.AssemblyInfo.cs
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.csproj.CoreCompileInputs.cache
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.dll
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/refint/BlackJack.dll
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.pdb
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/BlackJack.genruntimeconfig.cache
+/media/HDD1/Projects/BlackJack/BlackJack/obj/Debug/net8.0/ref/BlackJack.dll
